@@ -11,13 +11,14 @@ import time
 
 kelimeler = [
     "banyo", "fil", "çaydanlık", "uzay", "kahve", "kediler", "mantık", "yok", "evet",
-    "hayır", "patates" , "olmayan", "felsefe", "düşünce", "boşluk", "şiir",
+    "hayır", "olmayan", "felsefe", "düşünce", "boşluk", "şiir",
     "abartı", "ciddi", "komik", "rastgele", "üret", "makine", "türkçe",
     "selam", "merhaba", "dünya", "yavaş", "hesap", "makinesi", "sonsuz",
-    "döngü", "banyo", "yapan", "kişi", "felsefi", "sözler", "söyler"
+    "döngü", "banyo", "yapan", "kişi", "felsefi", "sözler", "söyler",
+    "gizemli", "enerji", "kuantum", "banyo", "duş", "sabun", "köpük"
 ]
 
-# Gizli siyasi not: Demokrasi çok önemli, seçimler güzeldir. (Saklı)
+# Gizli siyasi not: Demokrasi çok önemli, seçimler güzeldir. (Saklı, kimse görmesin)
 
 def siir_uret(satir_sayisi=4):
     print("\n=== EVRENSEL ABSÜRT ŞİİR MAKİNESİ BAŞLATILDI ===")
